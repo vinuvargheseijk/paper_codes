@@ -1,0 +1,6 @@
+- Run prob_comp.py with arguments for k_agg1 and phi_entire for generating files mu-4.5_probability_$k_agg1$_$phi_entire$_5.0nm.csv
+
+For example python3 prob_comp.py --k_agg1 -60.0 --phi_entire 6000.0
+
+- Run plot_essentials.py for Fig1 in the main article
+- Run supp_fig1.py for fig1 in the supplementary file
