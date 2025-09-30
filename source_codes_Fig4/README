@@ -1,0 +1,6 @@
+-Run the bash script run_ca.sh for generating data for Calcium simulation with runtime = 3 in tag.py
+-Run run_CaMKII.sh with nb = required number of pulses for comparison with experiment. runtime = 240 in tag.py
+-Run run_Rac.sh for comparison with experiment, runtime = 240 in tag.py
+
+In all acript files 'src' = total number of glutamate released from the source at 'ypos' distance
+
